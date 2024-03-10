@@ -50,7 +50,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
-##How to Steck? 
+## How to Steck? 
 
 ![image](https://github.com/Snowdeserr/piep-tonn/assets/138176996/bf3b874a-2174-43d4-b0ed-07c52d1bdd12)
 
